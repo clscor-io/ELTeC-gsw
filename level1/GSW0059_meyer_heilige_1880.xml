@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der Heilige: ELTeC Ausgabe</title>
+                <title ref="wikidata:Q1194176">Der Heilige: ELTeC Ausgabe</title>
                 <author ref="viaf:95153180 wikidata:Q123261">Meyer, Conrad Ferdinand
                     (1825-1898)</author>
                 <respStmt>

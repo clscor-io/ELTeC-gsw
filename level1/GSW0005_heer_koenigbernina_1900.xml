@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Der König der Bernina : ELTeC Ausgabe</title>
+                <title ref="wikidata:Q118213787">Der König der Bernina : ELTeC Ausgabe</title>
                 <author ref="viaf:10641947 wikidata:Q1678959">Heer, Jakob Christoph
                     (1859-1925)</author>
                 <respStmt>

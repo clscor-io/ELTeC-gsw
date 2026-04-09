@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Geschichte der Anna Waser: ELTeC Ausgabe</title>
+                <title ref="wikidata:Q136801388">Die Geschichte der Anna Waser: ELTeC Ausgabe</title>
                 <author ref="viaf:8183423 wikidata:Q1434539">Waser, Maria (1878-1939)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>

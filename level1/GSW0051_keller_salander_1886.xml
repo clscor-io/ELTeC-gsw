@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Martin Salander : ELTeC Ausgabe</title>
+                <title ref="wikidata:Q1904882">Martin Salander : ELTeC Ausgabe</title>
                 <author ref="viaf:102319551 wikidata:Q122370">Keller, Gottfried (1819-1890)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>

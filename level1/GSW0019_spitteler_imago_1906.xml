@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Imago : ELTeC Ausgabe</title>
+                <title ref="wikidata:Q35781050">Imago : ELTeC Ausgabe</title>
                 <author ref="viaf:120696319 wikidata:Q226525">Spitteler, Carl (1845-1924)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>

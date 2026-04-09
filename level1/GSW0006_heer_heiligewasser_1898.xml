@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>An heiligen Wassern: ELTeC Ausgabe</title>
+                <title ref="wikidata:Q120039776">An heiligen Wassern: ELTeC Ausgabe</title>
                 <author ref="viaf:10641947 wikidata:Q1678959">Heer, Jakob Christoph
                     (1859-1925)</author>
                 <respStmt>

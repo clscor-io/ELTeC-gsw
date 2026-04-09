@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Ein Rufer in der Wüste : ELTeC Ausgabe</title>
+                <title ref="wikidata:Q67197941">Ein Rufer in der Wüste : ELTeC Ausgabe</title>
                 <author ref="viaf:64113465 wikidata:Q117227">Bosshart, Jakob (1862-1924)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>

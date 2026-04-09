@@ -5,7 +5,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Die Hochzeit des Mönchs: ELTeC Ausgabe</title>
+                <title ref="wikidata:Q1213463">Die Hochzeit des Mönchs: ELTeC Ausgabe</title>
                 <author ref="viaf:95153180 wikidata:Q123261">Meyer, Conrad Ferdinand
                     (1825-1898)</author>
                 <respStmt>

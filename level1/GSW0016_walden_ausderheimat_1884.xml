@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Aus der Heimat: ELTeC Ausgabe</title>
+                <title ref="wikidata:Q23828693">Aus der Heimat: ELTeC Ausgabe</title>
                 <author ref="viaf:69722349 wikidata:Q18916794">Walden, Marie (1834-1890)</author>
                 <respStmt>
                     <resp>ELTeC conversion</resp>
